@@ -1,1 +1,6 @@
 about.html
+
+# *.java
+# target2/subtarget/*.html
+
+sub[0-2].html
